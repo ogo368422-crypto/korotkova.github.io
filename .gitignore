@@ -1,0 +1,5 @@
+# системный мусор Windows
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
